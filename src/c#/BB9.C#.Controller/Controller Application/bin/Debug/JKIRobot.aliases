@@ -1,0 +1,5 @@
+[My Computer]
+My Computer="localhost"
+
+[NI-cRIO-9068-F35E83]
+NI-cRIO-9068-F35E83="192.168.0.134"

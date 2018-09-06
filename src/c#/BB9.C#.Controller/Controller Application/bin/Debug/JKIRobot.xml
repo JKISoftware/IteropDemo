@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>JKIRobot</name>
+  </assembly>
+  <members>
+    <member name="M:JKIRobot.Robot_Interface.Init(JKIRobot.Robot_Interface@)">
+      <summary>Initializes and starts the JKI Robot Application. Returns the application handle for later use. This must be called to use the application. </summary>
+      <returns>Void</returns>
+    </member>
+    <member name="M:JKIRobot.Robot_Interface.SetGrabberPosition(JKIRobot.Robot_Interface,System.Double)">
+      <summary>Sets the grabber position in % (0 = Closed, 100 = open). Takes the robot app handle as an input. </summary>
+      <returns>Void</returns>
+    </member>
+    <member name="M:JKIRobot.Robot_Interface.GetRobotPosition(JKIRobot.Robot_Interface,JKIRobot.Robot__Position@)">
+      <summary>Returns all robot position parameters. Takes the Robot App handle as input. </summary>
+      <returns>Void</returns>
+    </member>
+    <member name="M:JKIRobot.Robot_Interface.SetJointRotation(JKIRobot.Robot_Interface,JKIRobot.JointType,System.Double)">
+      <summary>Sets the specified joint type to the position specified in DEG (0-360). Takes the app handle as an input. </summary>
+      <returns>Void</returns>
+    </member>
+    <member name="M:JKIRobot.Robot_Interface.Shutdown(JKIRobot.Robot_Interface)">
+      <summary>Shuts down the robot application. </summary>
+      <returns>Void</returns>
+    </member>
+  </members>
+</doc>

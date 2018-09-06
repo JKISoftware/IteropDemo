@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\JKIRobot.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\NationalInstruments.LabVIEW.Interop.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\NationalInstruments.LabVIEW.RefnumTypes.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\JKIRobot.xml
